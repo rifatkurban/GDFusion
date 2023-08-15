@@ -1,7 +1,11 @@
 function [f]=mfiltw(images,k)
 % Gaussian of differences: a simple and efficient general image fusion method
 % Rifat Kurban, rifat.kurban@agu.edu.tr
-% https://github.com/rifatkurban/GDfusion
+%
+% Please cite this study as:
+% Kurban, R. Gaussian of Differences: A Simple and Efficient General Image Fusion Method. Entropy 2023, 25, 1215. https://doi.org/10.3390/e25081215
+%
+% Please also see: https://github.com/xingchenzhang/VIFB
 
 kernelsize=2*k+1;
 sigma=(kernelsize-1)/6;
