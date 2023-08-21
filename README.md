@@ -5,7 +5,7 @@ Rifat Kurban, rifat.kurban@agu.edu.tr
 
 Please cite this study as:
 
-Kurban, R. Gaussian of Differences: A Simple and Efficient General Image Fusion Method. Entropy 2023, 25, 1215. https://doi.org/10.3390/e25081215
+Kurban, R. (2023). Gaussian of Differences: A Simple and Efficient General Image Fusion Method. Entropy, 25(8), 1215. https://doi.org/10.3390/e25081215
 
 GDFusion_matlabcodes folder contains the Matlab codes of the GD fusion method and image dataset used in the manuscript.
 
